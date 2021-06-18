@@ -1,2 +1,2 @@
 ## Objetivo 
-Criar modelo de regressão para previsão de feature faturamento.
+Criar modelo de regressão para previsão da feature faturamento.
